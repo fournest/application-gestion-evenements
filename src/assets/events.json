@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titre": "Improviz",
+        "date": "2024-07-15",
+        "description": "Spectacle professionnel d'improvisation sans limite ni contrainte pour toute la famille!"
+    },
+    {
+        "id": 2,
+        "titre": "Concert en plein air",
+        "date": "2024-08-01",
+        "description": "Un festival de musique estival avec plusieurs groupes locaux et nationaux."
+    },
+    {
+        "id": 3,
+        "titre": "Exposition d'art contemporain",
+        "date": "2024-09-10",
+        "description": "Découvrez les œuvres d'artistes émergents et établis dans une exposition unique."
+    },
+    {
+        "id": 4,
+        "titre": "Marché des producteurs locaux",
+        "date": "2024-10-05",
+        "description": "Venez rencontrer les producteurs de la région et déguster des produits frais et artisanaux."
+    },
+    {
+        "id": 5,
+        "titre": "Course solidaire annuelle",
+        "date": "2024-11-20",
+        "description": "Participez à notre course annuelle pour une bonne cause, ouverte à tous les âges et niveaux."
+    }
+]
